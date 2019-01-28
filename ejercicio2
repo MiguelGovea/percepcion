@@ -1,3 +1,9 @@
+/*
+PERCEPCIÓN
+MIGUEL ÁNGEL GOVEA ZARATE 
+MATRÍCULA: 1617821
+HORA: N5
+*/
 function setup() {
   createCanvas(300,300);
 }
